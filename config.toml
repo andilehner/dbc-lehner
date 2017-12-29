@@ -98,6 +98,6 @@ paginate = 5
 # Languages to render
 #[languages.en]
 #[languages.bg]
-[]languages.de]
+[languages.de]
 
 # vim: ts=2 sw=2 et
