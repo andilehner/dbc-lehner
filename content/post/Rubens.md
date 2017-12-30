@@ -1,9 +1,8 @@
 ---
-author: "Andreas Lehner"
-date: 2017-12-30T17:11:51+01:00
-linktitle: Rubens und die kreative Evolution
-title: "Rubens und die kreative Evolution"
-weight: 10
+title: Rubens und die Evolution der Kreativität
+date: 2017-12-30T16:11:51.000Z
+thumbnail: /images/uploads/generation-itrust.png
+rating: '5'
 ---
 
 ## Introduction
