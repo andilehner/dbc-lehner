@@ -20,6 +20,10 @@ Ich entdeckte zahlreiche Parallelen in der Arbeitsweise von Rubens und der Arbei
 
 Vieles davon erinnert mich an den Design-Prozess wie er vielfach im Bereich der Digitalisierung erklärt wird. Das Sichtbarmachen von Design-Evolution, die ständige Erweiterung und Neuinterpretationen bestehender Werke  und die Schaffung von Design "evidence" spielen dabei eine bedeutende Rolle. Sie ist die Grundlage bzw. Voraussetzung für die Entwicklung von Innovationen, sprich die Grundlage für Kreativität sind. Wie bei Rubens, der durch ständige Weiterentwicklung eine Evolution seiner Arbeit herbeiführte und diese ganz bewusst sichtbar und transparent machte. So erlangte er unerschöpfliche Kreativität und Schaffenskraft. Ein Vorbild für alle die sich heutzutage Innovation und Digitalisierung auf die Mütze schreiben.
 
+![Kentaur von Cupido](/images/uploads/kentaur-von-cupido_wrm.jpg)
+
+![Ecce Homo, Peter Paul Rubens](/images/uploads/eremitage_presse.jpg)
+
 Einige interessante und inspirierende Inhalte aus der Welt des Designs, in denen ich eine Verbindung zu Rubens sehe, findest Du hier: 
 
 Natasha Jen spricht in diesem Video eindringlich von der Wichtigkeit von "Design Evidence", das ständige Entwickeln neuer Entwürfe, das Kritisieren dieser Entwürfe (Design Critique) und der Feedback-Kultur, die neue Ideen zu konkreten Innovationen entstehen lässt. 
