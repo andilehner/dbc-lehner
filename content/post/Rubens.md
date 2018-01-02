@@ -4,7 +4,7 @@ date: 2017-12-30T16:11:51.000Z
 thumbnail: ''
 rating: ''
 ---
-Peter Paul Rubens zählt zu den bekanntesten und bedeutensten Malern des Barock. Er lebte im 16.Jahrhundert und war flämischer Herkunft. Das Kunsthistorische Museum in Wien widmet Rubens aktuell eine Sonderausstellung mit dem Titel: "Kraft der Verwandlung" # more [(Externer Link: Rubens - KHM Wien)](https://www.khm.at/rubens2017/).
+Peter Paul Rubens zählt zu den bekanntesten und bedeutensten Malern des Barock. Er lebte im 16.Jahrhundert und war flämischer Herkunft. Das Kunsthistorische Museum in Wien widmet Rubens aktuell eine Sonderausstellung mit dem Titel: "Kraft der Verwandlung" <!--more-->  [(Externer Link: Rubens - KHM Wien)](https://www.khm.at/rubens2017/).
 
 Ich besuchte die Ausstellung aus zweierlei Gründen:
 
