@@ -2,7 +2,7 @@
 #
 baseurl = "/"
 languageCode = "de"
-title = "Spielen"
+title = "Spielen."
 theme = "bootstrap4"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
