@@ -2,7 +2,7 @@
 #
 baseurl = "/"
 languageCode = "de"
-title = "Andreas Lehner"
+title = "Spielen"
 theme = "bootstrap4"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -38,7 +38,7 @@ paginate = 5
   author = "Andreas Lehner"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "Kreativität für die Digitalisierung. Inspiration und Methoden."
+  description = "Kreativität für die Digitalisierung. Inspiration und Methoden. Ein Blog von Andreas Lehner."
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
