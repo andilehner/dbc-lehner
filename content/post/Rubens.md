@@ -1,61 +1,40 @@
 ---
 title: Rubens und die Evolution der Kreativität
 date: 2017-12-30T16:11:51.000Z
-thumbnail: /images/uploads/generation-itrust.png
-rating: '5'
+thumbnail: ''
+rating: ''
 ---
+Peter Paul Rubens zählt zu den bekanntesten und bedeutensten Malern des Barock. Er lebte im 16.Jahrhundert und war flämischer Herkunft. Das Kunsthistorische Museum in Wien widmet Rubens eine Sonderausstellung mit dem Titel: "Kraft der Verwandlung".
 
-## Introduction
+Ich besuchte die Ausstellung aus zweierlei Gründen:
 
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+1. mir gefallen die Gemälde von Rubens, v.a. die wilden und blutrünstigen Darstellungen von Geschichten aus der römischen und griechischen Mythologie.
 
-We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
+2. das Thema "Kraft der Verwandlung" fügt sich nahtlos ein in die Themen Kreativität und Design, die ich im letzten Jahr beruflich zu einem Schwerpunkt im Rahmen von Digitalisierung und Innovation (Design Thinking) machte
 
-In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
+Ich entdeckte zahlreiche Parallelen in der Arbeitsweise von Rubens und der Arbeitsweise, wie sie für Innovationskraft und das kreative Problemlösen in Zeiten der Digitalisierung empfohlen wird.
 
-Here's an example:
+* Der Schaffensprozess des Meisters charakterisierte sich durch "einen tiefen Dialog Rubens mit Kunstwerken berühmter Vorgänger und Zeitgenossen wie Tizian und Tintoretto, von Goltzius, Rottenhammer und Elsheimer sowie von Giambologna, Van Tetrode und Van der Schardt."
+* Rubens holte sich Inspiration aus unterschiedlichen Epochen und Genres wie Malerei, Zeichnungen, Druckgrafiken, Skulpturen und angewandte Kunst.
+* Rubens zeichnete untentwegt und entwickelte so eine ständig wachsende Sammlung an Motiven, auf die er für seine großen Werke zurückgriff.
+* Rubens vervielfältigte seine Werke als Druckgrafiken, um so eine größere Verbreitung seiner Arbeit zu ermöglichen. \[1]
 
-```
-## this is a comment
-$ echo this is a command
-this is a command
+Vieles davon erinnert mich an den Design-Prozess, in dem das Sichtbarmachen von Design-Evolution, die ständige Erweiterung und Neuinterpretationen bestehender Werke  und die Schaffung von Design "evidence" eine so bedeutende Rolle spielt. Sie ist die Grundlage bzw. Voraussetzung für die Entwicklung von Innovationen, sprich die Grundlage für Kreativität sind.
 
-## edit the file
-$vi foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
+Einige interessante Links aus dem Design Bereich
 
-bah and humbug
-:wq
+* Natasha Jen spricht in diesem Video eindringlich von der Wichtigkeit von "Design Evidence", das ständige Entwickeln neuer Entwürfe, das Kritisieren dieser Entwürfe (Design Critique) und der Feedback-Kultur, die neue Ideen zu konkreten Innovationen entstehen lässt. 
 
-## show it
-$ cat foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
+http://99u.com/videos/55967/natasha-jen-design-thinking-is-bullshit
 
-bah and humbug
-$
-```
+* Ebenso interessant finde ich den Ansatz zum Training des "Design Muscles"
 
+https://medium.com/stanford-d-school/designmuscles-71987212b7d2 
 
-## Some Definitions
+* Ein empfehlenswertes Buch zu "Design Critique" gibt es im O'Reilly Verlag
 
-There are a few concepts that you need to understand before creating a theme.
+http://shop.oreilly.com/product/0636920033561.do
 
-### Skins
+Referenzen
 
-Skins are the files responsible for the look and feel of your site. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.
-
-You have two ways to create a skin. The simplest way is to create it in the ```layouts/``` directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the ```layouts/``` directory so it will always find the skin.
-
-Your second choice is to create it in a sub-directory of the ```themes/``` directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?
-
-The difference between creating a skin in ```layouts/``` and creating it in ```themes/``` is very subtle. A skin in ```layouts/``` can’t be customized without updating the templates and static files that it is built from. A skin created in ```themes/```, on the other hand, can be and that makes it easier for other people to use it.
-
-The rest of this tutorial will call a skin created in the ```themes/``` directory a theme.
-
-Note that you can use this tutorial to create a skin in the ```layouts/``` directory if you wish to. The main difference will be that you won’t need to update the site’s configuration file to use a theme.
+\[1] http://www.staedelmuseum.de/de/rubens
