@@ -5,7 +5,7 @@ title: >-
   entwickelte
 date: 2018-01-02T21:48:58.220Z
 ---
-Jeder Mensch verfügt über Kreativität. Bei Kindern ist Kreativität besonders ausgepragt, weil sie sie tagtaeglich nutzen. Sie spielen und lernen mit Kreativitaet.
+Jeder Mensch verfügt über Kreativität. Bei Kindern ist Kreativität besonders ausgeprägt, weil sie sie tagtäglich nutzen. Sie spielen und lernen mit Kreativität.
 
 Für mich ist diese Fähigkeit faszinierend. Kinder sind Vorbilder in kreativem Lernen. Ich schaue ganz genau hin, wenn meine beiden Söhne spielerisch die Welt erkunden und Systeme erforschen und lernen damit umzugehen.
 
