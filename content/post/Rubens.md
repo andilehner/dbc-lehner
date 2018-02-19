@@ -1,7 +1,7 @@
 ---
 title: Rubens und die Evolution der Kreativität
 date: 2017-12-30T16:11:51.000Z
-thumbnail: /images/uploads/eremitage_presse.jpg
+thumbnail: ''
 rating: ''
 ---
 Peter Paul Rubens zählt zu den bekanntesten und bedeutensten Malern des Barock. Er lebte im 16.Jahrhundert und war flämischer Herkunft. Das Kunsthistorische Museum in Wien widmet Rubens aktuell eine Sonderausstellung mit dem Titel: "Kraft der Verwandlung" <!--more-->  [(Externer Link: Rubens - KHM Wien)](https://www.khm.at/rubens2017/).
@@ -19,8 +19,6 @@ Ich entdeckte zahlreiche Parallelen in der Arbeitsweise von Rubens und der Arbei
 * Rubens vervielfältigte seine Werke als Druckgrafiken, um so eine größere Verbreitung seiner Arbeit zu ermöglichen. \[1]
 
 Vieles davon erinnert mich an den Design-Prozess wie er vielfach im Bereich der Digitalisierung erklärt wird. Das Sichtbarmachen von Design-Evolution, die ständige Erweiterung und Neuinterpretationen bestehender Werke  und die Schaffung von Design "evidence" spielen dabei eine bedeutende Rolle. Sie ist die Grundlage bzw. Voraussetzung für die Entwicklung von Innovationen, sprich die Grundlage für Kreativität sind. Wie bei Rubens, der durch ständige Weiterentwicklung eine Evolution seiner Arbeit herbeiführte und diese ganz bewusst sichtbar und transparent machte. So erlangte er unerschöpfliche Kreativität und Schaffenskraft. Ein Vorbild für alle die sich heutzutage Innovation und Digitalisierung auf die Mütze schreiben.
-
-![](/images/uploads/eremitage_presse.jpg)
 
 Einige interessante und inspirierende Inhalte aus der Welt des Designs, in denen ich eine Verbindung zu Rubens sehe, findest Du hier: 
 
