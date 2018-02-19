@@ -1,7 +1,7 @@
 ---
 title: Rubens und die Evolution der Kreativität
 date: 2017-12-30T16:11:51.000Z
-thumbnail: ''
+thumbnail: /images/uploads/eremitage_presse.jpg
 rating: ''
 ---
 Peter Paul Rubens zählt zu den bekanntesten und bedeutensten Malern des Barock. Er lebte im 16.Jahrhundert und war flämischer Herkunft. Das Kunsthistorische Museum in Wien widmet Rubens aktuell eine Sonderausstellung mit dem Titel: "Kraft der Verwandlung" <!--more-->  [(Externer Link: Rubens - KHM Wien)](https://www.khm.at/rubens2017/).
@@ -36,6 +36,6 @@ Natasha Jen spricht in diesem Video eindringlich von der Wichtigkeit von "Design
 
 <http://shop.oreilly.com/product/0636920033561.do>
 
-Referenzen
+## Referenzen
 
 \[1] http://www.staedelmuseum.de/de/rubens
