@@ -2,6 +2,7 @@
 layout: ''
 title: Wie ich mich beim Spielen mit Kindern in extrem starrem Denken ertappte
 date: 2018-01-02T21:47:13.721Z
+thumbnail: ''
 ---
 Am Sonntag wollte ich mit meinen Kindern etwas basteln. Sie erzählten mir von einem Puppentheaterbesuch mit dem Kinderladen. Ich schlug den beiden vor, lasst uns doch aus Karton ein Puppentheater basteln. Wir suchten im Internet nach Anleitungen und legten los. 
 
